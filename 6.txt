@@ -1,0 +1,6 @@
+Juan, 8
+Maria, 7
+Carlos, 8
+Juan, 9
+Maria, 8
+Carlos, 7
