@@ -1,0 +1,4 @@
+Venta total: 9200
+Promedio de ventas: 1840.000000
+Dia de mayor venta: 2024-05-04,, 2200
+Dia de menor venta: 2024-05-01,, 1500

@@ -1,2 +1,0 @@
-Día de temperatura máxima: , 9.38428e-312
-Día de temperatura mínima: , 9.38428e-312

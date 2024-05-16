@@ -1,0 +1,2 @@
+Dia de temperatura maxima: 2024-05-04,, 25.3
+Dia de temperatura minima: 2024-05-05,, 10.2
